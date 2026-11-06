@@ -4,9 +4,6 @@
 **Bundle ID:** `com.subgasto.app`  
 **Developer:** Alexandar Vincet Paulraj  
 **Effective date:** 6 November 2026  
-**Contact:** privacy@subgasto.app  
-**Public URL:** https://subgasto.app/privacy  
-
 This is the App Privacy document for SubGasto. It is written for users and for App Store Review Guideline 5.1.1(i). It must stay consistent with the App Store privacy label (**Data Not Collected**, tracking **No**) and with `PrivacyInfo.xcprivacy`.
 
 SubGasto is a local-first bill and subscription tracker for iPhone. It does not connect to your bank and is not financial advice. There is no SubGasto account and no SubGasto server.
@@ -95,7 +92,3 @@ SubGasto is not directed at children under 13.
 Developer: Alexandar Vincet Paulraj  
 Privacy and deletion: privacy@subgasto.app  
 Support: https://subgasto.app/support  
-
-## Changes
-
-Updates will appear in this repository and at https://subgasto.app/privacy before a new practice ships.
