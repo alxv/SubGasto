@@ -90,5 +90,3 @@ SubGasto is not directed at children under 13.
 ## Contact
 
 Developer: Alexandar Vincet Paulraj  
-Privacy and deletion: privacy@subgasto.app  
-Support: https://subgasto.app/support  
